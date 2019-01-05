@@ -1,0 +1,11 @@
+{
+  "id": "wilderness",
+  "name": "Wilderness",
+  "version": "$version",
+  "side": "universal",
+  "initializers": [
+  ],
+  "description": "Adds adventury stuff and things!",
+  "mixins": {
+  }
+}
