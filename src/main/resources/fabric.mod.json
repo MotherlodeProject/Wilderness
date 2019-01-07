@@ -4,6 +4,7 @@
   "version": "$version",
   "side": "universal",
   "initializers": [
+	"io.github.motherlodeproject.wilderness.registry.WildernessRegistry"
   ],
   "description": "Adds adventury stuff and things!",
   "mixins": {

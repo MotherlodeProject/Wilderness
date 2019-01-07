@@ -78,11 +78,11 @@ uploadArchives {
 					name project.archivesBaseName
 					packaging 'jar'
 					description project.archivesBaseName
-					url 'https://github.com/MotherlodeMod/Wilderness'
+					url 'https://github.com/MotherlodeProject/Wilderness'
 					scm {
-						url 'https://github.com/MotherlodeMod/Wilderness'
-						connection 'scm:git:git@github.com:MotherlodeMod/Wilderness.git'
-						developerConnection 'scm:git:git@github.com:MotherlodeMod/Wilderness.git'
+						url 'https://github.com/MotherlodeProject/Wilderness'
+						connection 'scm:git:git@github.com:MotherlodeProject/Wilderness.git'
+						developerConnection 'scm:git:git@github.com:MotherlodeProject/Wilderness.git'
 					}
 				}
 			}

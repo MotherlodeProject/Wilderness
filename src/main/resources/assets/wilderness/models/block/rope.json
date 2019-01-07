@@ -1,0 +1,6 @@
+{
+  "parent": "wilderness:block/tinted_cross",
+  "textures": {
+	"texture": "wilderness:block/rope"
+  }
+}
