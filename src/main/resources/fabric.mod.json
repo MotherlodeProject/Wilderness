@@ -4,9 +4,13 @@
   "version": "$version",
   "side": "universal",
   "initializers": [
-	"io.github.motherlodeproject.wilderness.registry.WildernessRegistry"
+	"io.github.motherlodeproject.wilderness.registry.WildernessRegistry",
+	"io.github.motherlodeproject.wilderness.network.WildernessNetwork",
+	"io.github.motherlodeproject.wilderness.client.WildernessClient"
   ],
   "description": "Adds adventury stuff and things!",
   "mixins": {
+	"client": "mixins.wilderness.client.json",
+	"common": "mixins.wilderness.client.json"
   }
 }
